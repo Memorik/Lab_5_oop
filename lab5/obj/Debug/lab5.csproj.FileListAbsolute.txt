@@ -1,0 +1,30 @@
+C:\Users\maxbo\source\repos\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\maxbo\source\repos\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\maxbo\source\repos\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\maxbo\source\repos\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\User\Desktop\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\User\Desktop\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\User\Desktop\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\User\Desktop\lab5\lab5\obj\Debug\lab5.pdb

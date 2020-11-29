@@ -1,0 +1,10 @@
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\bin\Debug\Lab5-2.exe.config
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\bin\Debug\Lab5-2.exe
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\bin\Debug\Lab5-2.pdb
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\лабараторна5-2.csprojAssemblyReference.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\Lab5_2.Form1.resources
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\лабараторна5-2.csproj.GenerateResource.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\лабараторна5-2.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\Lab5-2.exe
+C:\Users\maxbo\OneDrive\Рабочий стол\Vlad\lab5\lab5-2\obj\Debug\Lab5-2.pdb
